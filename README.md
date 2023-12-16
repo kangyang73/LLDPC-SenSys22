@@ -2,7 +2,7 @@
 
 Created by [Kang Yang](https://www.kangyangg.com).
 
-This GNN network is built based on the [Factor-Graph-Neural-Network](https://github.com/zzhang1987/Factor-Graph-Neural-Network).
+The GNN network is built based on the [Factor-Graph-Neural-Network](https://github.com/zzhang1987/Factor-Graph-Neural-Network).
 
 ## Requirements
 The following packages are required: 
@@ -28,9 +28,9 @@ Download the sample dataset from [dataset](https://www.kangyangg.com/data/lldpc_
         --data
             --sf7
                 --snr1
-                    lldpc_sensys22.pt
+                    data.pt
     ---output
-
+```
 
 ### Running the code
 
