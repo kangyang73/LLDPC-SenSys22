@@ -10,12 +10,13 @@ The following packages are required:
 1. Python 3 
 2. PyTorch 1.13
 
-### Dataset Downloading
+### Dataset downloading
+
 Download the sample dataset from [dataset](https://www.kangyangg.com/data/lldpc_sensys22.pt).
 
 ### Folder Structure
 ```shell
---folder
+--root_folder
     ---lldpc_code
         --codes
         --lib
@@ -33,7 +34,9 @@ Download the sample dataset from [dataset](https://www.kangyangg.com/data/lldpc_
 
 ### Running
 
-``` shell
+Before running the code, in the beginning of the `if __name__ == '__main__':` section, you need to set the `base_dir` variable to your `root_folder` path.
+
+```shell
 python main_run.py
 ```
 
