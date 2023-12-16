@@ -10,8 +10,7 @@ The following packages are required:
 1. Python 3 
 2. PyTorch 1.13
 
-### Dataset downloading
-
+### Dataset Downloading
 Download the sample dataset from [dataset](https://www.kangyangg.com/data/lldpc_sensys22.pt).
 
 ### Folder Structure
@@ -32,7 +31,7 @@ Download the sample dataset from [dataset](https://www.kangyangg.com/data/lldpc_
     ---output
 ```
 
-### Running the code
+### Running
 
 ``` shell
 python main_run.py
