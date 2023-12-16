@@ -1,0 +1,17 @@
+{
+  "sf": 7,
+  "cr": 6,
+  "snr": 1,
+  "seed": 1994,
+  "code_len": 384,
+  "check_len": 128,
+  "degree_row": 6,
+  "degree_col": 2,
+  "data_path": "data.pt",
+  "n_epochs": 200,
+  "model_name": "FactorNN",
+  "batch_size": 32,
+  "aggregator": "max",
+  "ldpc_path": "H_256_384_46.txt",
+  "use_cuda": 1
+}
