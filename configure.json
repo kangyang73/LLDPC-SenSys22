@@ -7,7 +7,7 @@
   "check_len": 128,
   "degree_row": 6,
   "degree_col": 2,
-  "data_path": "data.pt",
+  "data_path": "lldpc_sensys22.pt",
   "n_epochs": 200,
   "model_name": "FactorNN",
   "batch_size": 32,
